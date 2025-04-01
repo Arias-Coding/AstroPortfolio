@@ -3,14 +3,14 @@ import Logo from "./Logo";
 
 export default function App() {
   return (
-    <DefaultDiv bgColor={""} className={"pt-14 pb-19 md:pt-22 md:pb-26"}>
-      <div className="flex justify-center">
-        <span className="py-1.5 px-4 rounded-4xl bg-cyan-600 text-amber-50 tex-sm">
-          Skills
-        </span>
-      </div>
+    <DefaultDiv bgColor={""} className={"pt-38"}>
+    <div className="flex justify-center">
+      <span className="pt-1.5 pb-2 px-4 rounded-4xl border-2 border-cyan-600 text-amber-50 text-sm">
+        Skills
+      </span>
+    </div>
 
-      <div className="flex flex-wrap gap-8 mt-12">
+      <div className="flex flex-wrap gap-12 mt-12">
         <div className="basis-[29%] grow  min-w-70">
           <h3 className="text-center xl:text-2xl font-semibold">
             Las tecnologias y herramientas con las que suelo trabajar:
