@@ -2,14 +2,14 @@ import DefaultDiv from "./defaultDiv";
 
 export default function App() {
   return (
-    <DefaultDiv bgColor={""} className={"pt-38"}>
+    <DefaultDiv bgColor={""} className={"pt-22 lg:pt-38"}>
       <div className="flex justify-center">
-        <span className="pt-1.5 pb-2 px-4 rounded-4xl border-2 border-cyan-600 text-amber-50 text-sm">
+        <span className="py-2 px-4 rounded-4xl border-2 border-cyan-600 text-amber-50 text-sm">
           About Me
         </span>
       </div>
 
-      <div className="mt-25 flex flex-wrap gap-9">
+      <div className="mt-12 lg:mt-25 flex flex-wrap gap-9">
         <div className="relative basis-4/12 flex-grow items-center">
           <img
             className="w-full h-full object-cover object-[25%_75%]"
@@ -20,10 +20,10 @@ export default function App() {
         </div>
 
         <div className="basis-7/12 flex-grow">
-          <h2 className="text-2xl lg:text-3xl font-bold">
+          <h2 className="text-xl lg:text-3xl font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam. 
           </h2>
-          <p className="mt-7 text-gray-200 text-sm lg:text-lg">
+          <p className="mt-5 lg:mt-7 text-gray-200 text-sm lg:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quod
             impedit nostrum, ad debitis necessitatibus dicta ipsam soluta,
             doloribus quis ea, libero pariatur facere mollitia consequuntur?
