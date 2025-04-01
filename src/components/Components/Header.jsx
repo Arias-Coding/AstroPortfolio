@@ -36,7 +36,7 @@ export default function App() {
         </p>
       </div>
 
-      <div className="flex items-center gap-3 mt-12">
+      <div className="flex items-center flex-wrap gap-3 mt-12">
         <a
           href=""
           className="bg-slate-800 text-gray-200 border-gray-400 flex items-center gap-2 border-[1px] py-1.5 px-3.5 rounded-4xl border-amber-5 0"

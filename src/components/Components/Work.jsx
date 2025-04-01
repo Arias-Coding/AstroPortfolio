@@ -3,14 +3,17 @@ import Work from "./Work";
 
 export default function App() {
   return (
-    <div className="flex gap-8 justify-center items-center">
-      <img
-        className="w-120 rounded-2xl"
-        src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/f266ebed4a1ad86708140cef61e5710615a14e99/933a9266418b1ad3bf4da961e84641edc72c4a85"
-        alt=""
-      />
-      <div className="w-110">
-        <h3 className="font-bold text-2xl">
+    <div className="flex flex-wrap gap-7 items-center">
+      <div className="basis-5/12 flex-grow">
+        <img
+          className="w-full rounded-2xl"
+          src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/f266ebed4a1ad86708140cef61e5710615a14e99/933a9266418b1ad3bf4da961e84641edc72c4a85"
+          alt=""
+        />
+      </div>
+
+      <div className="basis-6/12 flex-grow">
+        <h3 className="font-semibold text-2xl">
           Lorem ipsum dolor sit amet consectetur.
         </h3>
 

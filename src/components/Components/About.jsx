@@ -9,8 +9,8 @@ export default function App() {
         </span>
       </div>
 
-      <div className="mt-25 flex gap-10">
-        <div className="relative w-250 items-center">
+      <div className="mt-25 flex flex-wrap gap-9">
+        <div className="relative basis-4/12 flex-grow items-center">
           <img
             className="w-full h-full object-cover object-[25%_75%]"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbor.forbes.com%2Fthumbor%2Ffit-in%2F900x510%2Fhttps%3A%2F%2Fwww.forbes.com%2Fadvisor%2Fwp-content%2Fuploads%2F2023%2F07%2Fcomputer-coding.jpg&f=1&nofb=1&ipt=84138113da605b06405c0e671a99cc3850972a8bd00f4bf9aab27fbc34c9f882&ipo=images"
@@ -19,7 +19,7 @@ export default function App() {
           <div className="w-full h-full border-3 border-indigo-700 absolute -top-3 -left-3 lg:-top-9 lg:-left-9 z-20" />
         </div>
 
-        <div className="">
+        <div className="basis-7/12 flex-grow">
           <h2 className="text-2xl lg:text-3xl font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam. 
           </h2>
