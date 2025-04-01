@@ -12,7 +12,7 @@ export default function App() {
 
       <div className="flex flex-wrap gap-8 mt-12">
         <div className="basis-[29%] grow  min-w-70">
-          <h3 className="text-center text-md lg:text-2xl font-semibold">
+          <h3 className="text-center xl:text-2xl font-semibold">
             Las tecnologias y herramientas con las que suelo trabajar:
           </h3>
           <div className="flex flex-wrap gap-7 justify-center pt-8">
@@ -44,7 +44,7 @@ export default function App() {
         </div>
 
         <div className="basis-[29%] grow  min-w-70">
-          <h3 className="text-center text-md lg:text-2xl font-semibold">
+          <h3 className="text-center xl:text-2xl font-semibold">
             Tecnologias las cuales me encuentro estudiando:
           </h3>
           <div className="flex flex-wrap gap-7 justify-center pt-8">
@@ -99,7 +99,7 @@ export default function App() {
         </div>
 
         <div className="basis-[29%] grow  min-w-70">
-          <h3 className="text-center text-md lg:text-2xl font-semibold">
+          <h3 className="text-center xl:text-2xl font-semibold">
             Tecnologias en las que estoy interesado en aprender:
           </h3>
           <div className="flex flex-wrap gap-7 justify-center pt-8">

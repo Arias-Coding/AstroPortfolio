@@ -16,21 +16,21 @@ export default function App() {
         <a href="">
           <img
             className="w-8 h-8"
-            src="././././public/github-142-svgrepo-com.svg"
+            src="/github-142-svgrepo-com.svg"
             alt=""
           />
         </a>
         <a href="">
           <img
             className="w-10 h-10"
-            src="././././public/linkedin-svgrepo-com.svg"
+            src="/linkedin-svgrepo-com.svg"
             alt=""
           />
         </a>
         <a href="">
           <img
             className="w-10 h-10"
-            src="././././public/twitter-3-svgrepo-com.svg"
+            src="/twitter-3-svgrepo-com.svg"
             alt=""
           />
         </a>
