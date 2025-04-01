@@ -17,8 +17,8 @@ export default function App() {
             <button>
               <img src="/moon-svgrepo-com.svg" className="w-7 h-7" />
             </button>
-            <button className="font-semibold text-sm bg-cyan-700 text-white py-1 px-3 rounded-2xl hover:bg-gray-700 hover:text-gray-100 hover:cursor-pointer duration-200 ease-in hidden lg:inline">Download CV</button>
-            <button className="font-semibold text-sm bg-cyan-700 text-white py-1 px-3 rounded-2xl hover:bg-gray-700 hover:text-gray-100 hover:cursor-pointer duration-200 ease-in inline lg:hidden">CV</button>
+            <button className="font-semibold text-sm bg-cyan-600 text-white py-1 px-3 rounded-2xl hover:bg-gray-100 hover:text-gray-800 hover:cursor-pointer duration-200 ease-in hidden lg:inline">Download CV</button>
+            <button className="font-semibold text-sm bg-cyan-600 text-white py-1 px-3 rounded-2xl hover:bg-gray-100 hover:text-gray-800 hover:cursor-pointer duration-200 ease-in inline lg:hidden">CV</button>
           </div>
         </div>
       </div>
