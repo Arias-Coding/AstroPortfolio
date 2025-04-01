@@ -6,7 +6,7 @@ export default function App() {
       <div className="flex flex-wrap-reverse gap-12 justify-between items-center">
         <div className="xl:w-150 xl:h-60 mt-10 2xl:mt-0">
           <h1 className="text-4xl lg:text-5xl font-black">Hola, Soy yo 👋</h1>
-          <p className="pt-4 font-semibold text-gray-800 md:text-lg">
+          <p className="pt-4 font-semibold text-gray-800 text-sm md:text-lg">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto
             deserunt sapiente sint eius expedita optio ab! Quo sed voluptatum
             dicta ab, nisi nihil quia sequi aut debitis a vel nulla perspiciatis
@@ -19,13 +19,13 @@ export default function App() {
                 className="w-4 h-4 lg:w-6 lg:h-6"
                 src="/pin-sharp-circle-624-svgrepo-com.svg"
               />
-              <span className="md:text-lg">Buenos Aires, Argentina</span>
+              <span className="text-sm md:text-lg">Buenos Aires, Argentina</span>
             </div>
-            <div className="flex items-center gap-2 mt-4">
+            <div className="flex items-center gap-2 mt-2 md:mt-4">
               <div className="w-4 h-4 lg:w-6 lg:h-6 flex items-center justify-center">
                 <div className="w-2 h-2 lg:w-3 lg:h-3 bg-green-500 rounded-full" />
               </div>
-              <span className="md:text-lg">Disponible para nuevos proyectos</span>
+              <span className="text-sm md:text-lg">Disponible para nuevos proyectos</span>
             </div>
           </div>
         </div>

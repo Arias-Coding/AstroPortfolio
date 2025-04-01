@@ -23,14 +23,14 @@ export default function App() {
           <h2 className="text-2xl lg:text-3xl font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam.
           </h2>
-          <p className="mt-4 text-gray-800 font-semibold lg:text-lg">
+          <p className="mt-4 text-gray-800 font-semibold text-sm lg:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             temporibus nostrum consequuntur, placeat sapiente maxime, quis
             eligendi ducimus id quia excepturi nobis ab dolores cupiditate
             fugiat beatae. Pariatur similique, rem quia saepe neque iste
             dignissimos impedit minima quos dolores maiores.
           </p>
-          <p className="mt-4 text-gray-800 font-semibold lg:text-lg">
+          <p className="mt-4 text-gray-800 font-semibold text-sm lg:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             temporibus nostrum consequuntur, placeat sapiente maxime, quis
             eligendi ducimus id quia excepturi nobis ab dolores cupiditate
