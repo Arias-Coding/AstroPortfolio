@@ -1,8 +1,8 @@
 ---
 import "../styles/global.css";
 import "@fontsource/open-sans"; // Defaults to weight 400.
-import '@fontsource-variable/inter';
-import '@fontsource-variable/onest';
+import "@fontsource-variable/inter";
+import "@fontsource-variable/onest";
 ---
 
 <!doctype html>
@@ -15,7 +15,9 @@ import '@fontsource-variable/onest';
     <title>Portfolio</title>
   </head>
   <body class="font-[Onest_Variable]">
-    <slot />
+    <div class="bg-gradient-to-b from-slate-950 to-slate-700">
+
+      <slot />
+    </div>
   </body>
 </html>
-

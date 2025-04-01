@@ -28,8 +28,8 @@ export default function App() {
       </div>
 
       <div className="xl:w-150 mt-6">
-        <h1 className="text-3xl lg:text-5xl font-black">Hola, Soy yo 👋</h1>
-        <p className="pt-7 font-semibold text-gray-300 text-lg">
+        <h1 className="text-3xl lg:text-5xl font-black">Hola, Soy yo👋</h1>
+        <p className="pt-7 font-semibold text-gray-300 text-xl">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio esse
           asperiores voluptatum earum, deserunt nemo. Magnam iste reiciendis
           labore numquam voluptate quae, aliquam ducimus architecto!
