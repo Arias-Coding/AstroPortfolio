@@ -21,7 +21,7 @@ export default function App() {
 
         <div className="">
           <h2 className="text-2xl lg:text-3xl font-bold">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam. 
           </h2>
           <p className="mt-7 text-gray-200 text-sm lg:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quod
