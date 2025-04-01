@@ -9,7 +9,7 @@ export default function App() {
         </span>
       </div>
 
-      <div className="mt-12 lg:mt-25 flex flex-wrap gap-9">
+      <div className="mt-15 lg:mt-25 flex flex-wrap gap-9">
         <div className="relative basis-4/12 flex-grow items-center">
           <img
             className="w-full h-full object-cover object-[25%_75%]"

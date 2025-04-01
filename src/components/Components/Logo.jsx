@@ -1,8 +1,8 @@
-export default function Logo({ Name, ImgLink }) {
+export default function Logo({ Name, ImgLink, IfInvert }) {
   return (
     <div className="text-center">
       <img
-        className="w-content h-8 xl:h-10 mx-auto mb-1.5"
+        className={`w-content h-8 xl:h-10 mx-auto mb-1.5 ${IfInvert}`}
         src={ImgLink}
         alt=""
       />

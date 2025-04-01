@@ -2,7 +2,7 @@ import DefaultDiv from "./defaultDiv";
 
 export default function App() {
   return (
-    <DefaultDiv className={"pt-20"}>
+    <DefaultDiv className={"pt-14 md:pt-20"}>
       <div className="flex items-center gap-6">
         <img
           className="w-20 h-20 rounded-full object-cover object-[25%_75%] "

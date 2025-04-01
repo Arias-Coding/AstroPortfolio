@@ -56,6 +56,7 @@ export default function App() {
             />
             <Logo
               Name={"NextJS"}
+              IfInvert={"invert"}
               ImgLink={
                 "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe3%2F82%2F52%2Fe3825274a94bafc3f0282cae29c19972.png&f=1&nofb=1&ipt=606de380a87d850441afca82a8435e178c5b50ca1acc14df5b80afcc07feed89&ipo=images"
               }
@@ -63,7 +64,7 @@ export default function App() {
             <Logo
               Name={"Astro"}
               ImgLink={
-                " https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F5cc0a03a302ec862c4aeac2a22a513ae31c35432%2Ftopics%2Fastro%2Fastro.png&f=1&nofb=1&ipt=761bf1afe7626917d47fd5af13ade749ded59debee0772ac96e4f7c845fc80ed&ipo=images"
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F59144946%2F276976456-4a5e1cbc-2d4e-439f-875b-8fb4bdc8c15e.png&f=1&nofb=1&ipt=298196e2b3f7eb7999438f63309eba9b3f2bc861e87566d60b795de7d2b36744&ipo=images"
               }
             />
             <Logo
@@ -74,6 +75,7 @@ export default function App() {
             />
             <Logo
               Name={"EXpress"}
+              IfInvert={"invert"}
               ImgLink={
                 "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fexpress-js.png&f=1&nofb=1&ipt=29385acbc7818269af46d554441f5d8540581c1ff5b2604e4a0e229f3479c8e2"
               }
@@ -117,6 +119,7 @@ export default function App() {
             />
             <Logo
               Name={"GitHub Actions"}
+              IfInvert={"invert"}
               ImgLink={
                 "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fd%2Fgithub_PNG80.png&f=1&nofb=1&ipt=cafa816ed2e58b5d9d8441ff99fdb709c83f968d7ec840d2f2773e16cf81a047&ipo=images"
               }
