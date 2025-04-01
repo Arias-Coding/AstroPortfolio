@@ -8,15 +8,15 @@
   
   /* Track */
   ::-webkit-scrollbar-track {
-    background: #8a8989;
+    background: rgba(120, 120, 140, 20);
   }
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #2e2e2e;
+    background: #343c61;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #2b2b2b;
+    background: #3e4a80;
   }

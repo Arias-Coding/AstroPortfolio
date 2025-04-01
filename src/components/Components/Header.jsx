@@ -65,10 +65,10 @@ export default function App() {
         >
           <img
             className="w-content h-4 invert"
-            src="/twitter-3-svgrepo-com.svg"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngmind.com%2Fwp-content%2Fuploads%2F2019%2F08%2FEmail-Logo-Png-Transparent-Background.jpg&f=1&nofb=1&ipt=c15064152743a4d3ea42583eba6bff554fe77f5d3d0a36976fff9f0d85576bcc&ipo=images"
             alt=""
           />
-          <span className="text-sm font-semibold">Twitter</span>
+          <span className="text-sm font-semibold">Email</span>
         </a>
       </div>
     </DefaultDiv>
