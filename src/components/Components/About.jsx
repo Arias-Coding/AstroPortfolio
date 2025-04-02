@@ -21,14 +21,14 @@ export default function App() {
 
         <div className="basis-7/12 flex-grow">
           <h2 className="text-xl lg:text-3xl font-bold">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam. 
+            Un poco sobre mi 
           </h2>
-          <p className="mt-5 lg:mt-7 text-gray-200 text-sm lg:text-lg">
+          <p className="mt-5 lg:mt-7 text-gray-300 text-sm lg:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quod
             impedit nostrum, ad debitis necessitatibus dicta ipsam soluta,
             doloribus quis ea, libero pariatur facere mollitia consequuntur?
           </p>
-          <p className="mt-3 text-gray-200 text-sm lg:text-lg">
+          <p className="mt-3 text-gray-300 text-sm lg:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quod
             impedit nostrum, ad debitis necessitatibus dicta ipsam soluta,
             doloribus quis ea, libero pariatur facere mollitia consequuntur?

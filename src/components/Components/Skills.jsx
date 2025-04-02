@@ -13,7 +13,7 @@ export default function App() {
       <div className="mt-12 flex flex-wrap gap-12">
         <div className="basis-[29%] grow  min-w-70">
           <h3 className="text-center xl:text-2xl font-semibold">
-            Las tecnologias y herramientas con las que suelo trabajar:
+            Tecnologias y herramientas con las que suelo trabajar:
           </h3>
           <div className="flex flex-wrap gap-7 justify-center pt-8">
             <Logo
